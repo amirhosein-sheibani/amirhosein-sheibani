@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirhosein-sheibani&label=Profile%20views&color=0e75b6&style=flat" alt="amirhosein-sheibani" /> </p>
 
-- 🌱 I’m currently learning **react** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="15" height="15"/>
+- 🌱 I’m currently learning **more about react** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="15" height="15"/>
 
 - 📫 How to reach me **amirhosein.sheibaninia@gmail.com**
 
